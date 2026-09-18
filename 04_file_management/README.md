@@ -1,11 +1,10 @@
 # Manage files
 
-## How to create files?
+## How to create files
 
 ```bash
 touch new-file.txt -> to create an empty textfile
-```
-```bash
+
 vim "filename.txt" to open editor in vim or
 nano "filename.txt" for nano
 ```
@@ -33,5 +32,4 @@ mv "filename" "tonewlocation"
 ex.
 mv readme.md dir2/subdir
 ```
-
 
