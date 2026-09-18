@@ -25,3 +25,12 @@ ex
 ```bash
 cd /home/users/user
 ```
+
+## pwd and ls
+
+```bash
+pwd -> Print Working Directory
+shows your exact location
+
+ls -> List
+Shows a list of directories, subdirectories in your current catalog
