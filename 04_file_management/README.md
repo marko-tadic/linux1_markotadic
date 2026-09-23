@@ -28,8 +28,8 @@ rm -i mydir/* to remove all files one by one
 
 ```bash
 mv -> move
-mv "filename" "tonewlocation"
+mv "filename" "ToNewLocation"/"Newfilename"
 ex.
-mv readme.md dir2/subdir
+mv readme.md dir2/subdir /  readme2.md
 ```
 
