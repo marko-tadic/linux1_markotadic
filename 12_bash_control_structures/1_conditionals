@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+age=15
+if [[ $age -ge 18 ]]; then 
+	echo "Welcome to pub"
+fi
+
